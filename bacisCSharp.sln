@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleDemo", "ConsoleDemo\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sandkasse", "sandkasse\sandkasse.csproj", "{49ABB996-7762-4486-8F07-537B2F6EF50B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opgave401", "opgave401\opgave401.csproj", "{CF20B41D-07A7-4E50-B293-D924CA2964FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{49ABB996-7762-4486-8F07-537B2F6EF50B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49ABB996-7762-4486-8F07-537B2F6EF50B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49ABB996-7762-4486-8F07-537B2F6EF50B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF20B41D-07A7-4E50-B293-D924CA2964FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF20B41D-07A7-4E50-B293-D924CA2964FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF20B41D-07A7-4E50-B293-D924CA2964FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF20B41D-07A7-4E50-B293-D924CA2964FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
