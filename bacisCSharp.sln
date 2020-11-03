@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opgave652", "opgave652\opga
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opgave751", "opgave751\opgave751.csproj", "{4CC46C07-DB38-4995-9ABF-DC5430BF81EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "klasser", "klasser\klasser.csproj", "{C6DECB86-A627-4DBF-95E5-03096872CAAD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{4CC46C07-DB38-4995-9ABF-DC5430BF81EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4CC46C07-DB38-4995-9ABF-DC5430BF81EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4CC46C07-DB38-4995-9ABF-DC5430BF81EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6DECB86-A627-4DBF-95E5-03096872CAAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6DECB86-A627-4DBF-95E5-03096872CAAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6DECB86-A627-4DBF-95E5-03096872CAAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6DECB86-A627-4DBF-95E5-03096872CAAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
