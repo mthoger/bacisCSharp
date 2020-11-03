@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DebugDemo", "DebugDemo\DebugDemo.csproj", "{0A9EC1CD-B027-4070-AEA9-C3EBF4A827DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DebugDemo", "DebugDemo\DebugDemo.csproj", "{0A9EC1CD-B027-4070-AEA9-C3EBF4A827DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleDemo", "ConsoleDemo\ConsoleDemo.csproj", "{12FCEB2E-96C4-4B26-855E-2673FFDEBB41}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleDemo", "ConsoleDemo\ConsoleDemo.csproj", "{12FCEB2E-96C4-4B26-855E-2673FFDEBB41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sandkasse", "sandkasse\sandkasse.csproj", "{49ABB996-7762-4486-8F07-537B2F6EF50B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sandkasse", "sandkasse\sandkasse.csproj", "{49ABB996-7762-4486-8F07-537B2F6EF50B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opgave401", "opgave401\opgave401.csproj", "{CF20B41D-07A7-4E50-B293-D924CA2964FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "opgave401", "opgave401\opgave401.csproj", "{CF20B41D-07A7-4E50-B293-D924CA2964FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opgave481", "opgave481\opgave481.csproj", "{BB70630B-C647-4D06-BA2A-573E0ADBABFC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{CF20B41D-07A7-4E50-B293-D924CA2964FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF20B41D-07A7-4E50-B293-D924CA2964FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF20B41D-07A7-4E50-B293-D924CA2964FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB70630B-C647-4D06-BA2A-573E0ADBABFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB70630B-C647-4D06-BA2A-573E0ADBABFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB70630B-C647-4D06-BA2A-573E0ADBABFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB70630B-C647-4D06-BA2A-573E0ADBABFC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
