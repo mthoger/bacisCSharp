@@ -11,17 +11,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sandkasse", "sandkasse\sand
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "opgave401", "opgave401\opgave401.csproj", "{CF20B41D-07A7-4E50-B293-D924CA2964FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opgave481", "opgave481\opgave481.csproj", "{BB70630B-C647-4D06-BA2A-573E0ADBABFC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "opgave481", "opgave481\opgave481.csproj", "{BB70630B-C647-4D06-BA2A-573E0ADBABFC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opgave50x", "opgave50x\opgave50x.csproj", "{0C0A8E72-D7DD-4CCF-9C49-91831A9BFF3C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "opgave50x", "opgave50x\opgave50x.csproj", "{0C0A8E72-D7DD-4CCF-9C49-91831A9BFF3C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opgave6012", "opgave6012\opgave6012.csproj", "{8D2E0D68-D58D-41E2-805E-08863B2E894F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "opgave6012", "opgave6012\opgave6012.csproj", "{8D2E0D68-D58D-41E2-805E-08863B2E894F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opgave652", "opgave652\opgave652.csproj", "{36C28090-A18B-41BE-A148-BAC1A4E546B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "opgave652", "opgave652\opgave652.csproj", "{36C28090-A18B-41BE-A148-BAC1A4E546B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opgave751", "opgave751\opgave751.csproj", "{4CC46C07-DB38-4995-9ABF-DC5430BF81EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "opgave751", "opgave751\opgave751.csproj", "{4CC46C07-DB38-4995-9ABF-DC5430BF81EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "klasser", "klasser\klasser.csproj", "{C6DECB86-A627-4DBF-95E5-03096872CAAD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "klasserdemo", "klasserdemo\klasserdemo.csproj", "{C3A38412-2C67-4ABF-BA98-59E12CC5C7FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bæger", "bæger\bæger.csproj", "{6699FFAC-C25E-48FA-B52B-E8A5B85BF611}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "structs", "structs\structs.csproj", "{3482463A-FEE7-4582-86A0-259538363C58}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -65,10 +69,18 @@ Global
 		{4CC46C07-DB38-4995-9ABF-DC5430BF81EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4CC46C07-DB38-4995-9ABF-DC5430BF81EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4CC46C07-DB38-4995-9ABF-DC5430BF81EE}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C6DECB86-A627-4DBF-95E5-03096872CAAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C6DECB86-A627-4DBF-95E5-03096872CAAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C6DECB86-A627-4DBF-95E5-03096872CAAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C6DECB86-A627-4DBF-95E5-03096872CAAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3A38412-2C67-4ABF-BA98-59E12CC5C7FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3A38412-2C67-4ABF-BA98-59E12CC5C7FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3A38412-2C67-4ABF-BA98-59E12CC5C7FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3A38412-2C67-4ABF-BA98-59E12CC5C7FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6699FFAC-C25E-48FA-B52B-E8A5B85BF611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6699FFAC-C25E-48FA-B52B-E8A5B85BF611}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6699FFAC-C25E-48FA-B52B-E8A5B85BF611}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6699FFAC-C25E-48FA-B52B-E8A5B85BF611}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3482463A-FEE7-4582-86A0-259538363C58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3482463A-FEE7-4582-86A0-259538363C58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3482463A-FEE7-4582-86A0-259538363C58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3482463A-FEE7-4582-86A0-259538363C58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
