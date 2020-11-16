@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "automatiskEgenskaber", "aut
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "autopropsTerning", "autopropsTerning\autopropsTerning.csproj", "{C2909132-F353-458D-B1A4-644D993B9519}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arv1", "arv1\arv1.csproj", "{E51BD098-D04C-489E-99F2-EEBBFDF9A4AE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{C2909132-F353-458D-B1A4-644D993B9519}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2909132-F353-458D-B1A4-644D993B9519}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2909132-F353-458D-B1A4-644D993B9519}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E51BD098-D04C-489E-99F2-EEBBFDF9A4AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E51BD098-D04C-489E-99F2-EEBBFDF9A4AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E51BD098-D04C-489E-99F2-EEBBFDF9A4AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E51BD098-D04C-489E-99F2-EEBBFDF9A4AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
