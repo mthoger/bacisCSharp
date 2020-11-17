@@ -29,13 +29,22 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "structs", "structs\structs.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "egenskaberProps", "egenskaberProps\egenskaberProps.csproj", "{25B0893F-3E3C-4B40-BDAD-ABA17396A3C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fullprops", "fullprops\fullprops.csproj", "{43DBC1D4-BC03-407D-8255-64982364A238}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "fullprops", "fullprops\fullprops.csproj", "{43DBC1D4-BC03-407D-8255-64982364A238}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "automatiskEgenskaber", "automatiskEgenskaber\automatiskEgenskaber.csproj", "{89C1305A-66E3-4280-89F3-F19F2B00D779}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "automatiskEgenskaber", "automatiskEgenskaber\automatiskEgenskaber.csproj", "{89C1305A-66E3-4280-89F3-F19F2B00D779}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "autopropsTerning", "autopropsTerning\autopropsTerning.csproj", "{C2909132-F353-458D-B1A4-644D993B9519}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "autopropsTerning", "autopropsTerning\autopropsTerning.csproj", "{C2909132-F353-458D-B1A4-644D993B9519}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arv1", "arv1\arv1.csproj", "{E51BD098-D04C-489E-99F2-EEBBFDF9A4AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "arv1", "arv1\arv1.csproj", "{E51BD098-D04C-489E-99F2-EEBBFDF9A4AE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "arvudvidet", "arvudvidet\arvudvidet.csproj", "{9D51A3A0-608E-4514-9E31-EF6EC84C698A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DEAA9C68-6568-43E2-9436-A62BDEA30A14}"
+	ProjectSection(SolutionItems) = preProject
+		TextFile1.txt = TextFile1.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "advancedTerningArv", "advancedTerningArv\advancedTerningArv.csproj", "{B598A7DC-67F5-4D88-8799-812161FDA26D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +120,14 @@ Global
 		{E51BD098-D04C-489E-99F2-EEBBFDF9A4AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E51BD098-D04C-489E-99F2-EEBBFDF9A4AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E51BD098-D04C-489E-99F2-EEBBFDF9A4AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D51A3A0-608E-4514-9E31-EF6EC84C698A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D51A3A0-608E-4514-9E31-EF6EC84C698A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D51A3A0-608E-4514-9E31-EF6EC84C698A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D51A3A0-608E-4514-9E31-EF6EC84C698A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B598A7DC-67F5-4D88-8799-812161FDA26D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B598A7DC-67F5-4D88-8799-812161FDA26D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B598A7DC-67F5-4D88-8799-812161FDA26D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B598A7DC-67F5-4D88-8799-812161FDA26D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
