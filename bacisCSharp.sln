@@ -48,13 +48,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "advancedTerningArv", "advan
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "poly1-501", "poly1-501\poly1-501.csproj", "{117ADED1-CEC7-4934-8EE4-5C1B80DF7F55}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "poly2_502", "poly2_502\poly2_502.csproj", "{6AF9519D-CDCF-4176-AE92-449C8E9A43C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "poly2_502", "poly2_502\poly2_502.csproj", "{6AF9519D-CDCF-4176-AE92-449C8E9A43C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "polyadv105_4", "polyadv105_4\polyadv105_4.csproj", "{E8D7A7BC-19C2-41AC-BE4F-9E17797B5C19}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "polyadv105_4", "polyadv105_4\polyadv105_4.csproj", "{E8D7A7BC-19C2-41AC-BE4F-9E17797B5C19}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "interface110_1", "interface110_1\interface110_1.csproj", "{873B2535-8462-4E4F-80E0-B4E17516D5E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "interface110_1", "interface110_1\interface110_1.csproj", "{873B2535-8462-4E4F-80E0-B4E17516D5E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "interface110_2", "interface110_2\interface110_2.csproj", "{AA5A92D3-9941-4BA3-ADE5-3546E78F6D3F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "interface110_2", "interface110_2\interface110_2.csproj", "{AA5A92D3-9941-4BA3-ADE5-3546E78F6D3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "delegateterning", "delegateterning\delegateterning.csproj", "{BF3459AE-6759-4F7B-ACC8-200422550D99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "simpleregnemaskineIndBygDelegates", "simpleregnemaskineIndBygDelegates\simpleregnemaskineIndBygDelegates.csproj", "{A14D0E77-C2FF-49D8-8815-F0ECED224071}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lamda", "lamda\lamda.csproj", "{08A3CE2E-2A54-4F42-BF27-90F1E29C6245}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventsFileWatcher", "EventsFileWatcher\EventsFileWatcher.csproj", "{D4BB025D-B71D-4960-A63F-5C3DCE5F1D1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kreditmax", "kreditmax\kreditmax.csproj", "{3856F2D3-8080-437B-B870-C41EC6168A88}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -158,6 +168,26 @@ Global
 		{AA5A92D3-9941-4BA3-ADE5-3546E78F6D3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA5A92D3-9941-4BA3-ADE5-3546E78F6D3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA5A92D3-9941-4BA3-ADE5-3546E78F6D3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF3459AE-6759-4F7B-ACC8-200422550D99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF3459AE-6759-4F7B-ACC8-200422550D99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF3459AE-6759-4F7B-ACC8-200422550D99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF3459AE-6759-4F7B-ACC8-200422550D99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A14D0E77-C2FF-49D8-8815-F0ECED224071}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A14D0E77-C2FF-49D8-8815-F0ECED224071}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A14D0E77-C2FF-49D8-8815-F0ECED224071}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A14D0E77-C2FF-49D8-8815-F0ECED224071}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08A3CE2E-2A54-4F42-BF27-90F1E29C6245}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08A3CE2E-2A54-4F42-BF27-90F1E29C6245}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08A3CE2E-2A54-4F42-BF27-90F1E29C6245}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08A3CE2E-2A54-4F42-BF27-90F1E29C6245}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4BB025D-B71D-4960-A63F-5C3DCE5F1D1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4BB025D-B71D-4960-A63F-5C3DCE5F1D1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4BB025D-B71D-4960-A63F-5C3DCE5F1D1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4BB025D-B71D-4960-A63F-5C3DCE5F1D1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3856F2D3-8080-437B-B870-C41EC6168A88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3856F2D3-8080-437B-B870-C41EC6168A88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3856F2D3-8080-437B-B870-C41EC6168A88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3856F2D3-8080-437B-B870-C41EC6168A88}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
