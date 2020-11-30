@@ -66,6 +66,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventsFileWatcher", "Events
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kreditmax", "kreditmax\kreditmax.csproj", "{3856F2D3-8080-437B-B870-C41EC6168A88}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "linq150_1", "linq150_1\linq150_1.csproj", "{8ABA9CCE-A464-47DF-955E-F8A499074C50}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -188,6 +190,10 @@ Global
 		{3856F2D3-8080-437B-B870-C41EC6168A88}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3856F2D3-8080-437B-B870-C41EC6168A88}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3856F2D3-8080-437B-B870-C41EC6168A88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8ABA9CCE-A464-47DF-955E-F8A499074C50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ABA9CCE-A464-47DF-955E-F8A499074C50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ABA9CCE-A464-47DF-955E-F8A499074C50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ABA9CCE-A464-47DF-955E-F8A499074C50}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
