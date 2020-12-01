@@ -56,17 +56,29 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "interface110_1", "interface
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "interface110_2", "interface110_2\interface110_2.csproj", "{AA5A92D3-9941-4BA3-ADE5-3546E78F6D3F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "delegateterning", "delegateterning\delegateterning.csproj", "{BF3459AE-6759-4F7B-ACC8-200422550D99}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "delegateterning", "delegateterning\delegateterning.csproj", "{BF3459AE-6759-4F7B-ACC8-200422550D99}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "simpleregnemaskineIndBygDelegates", "simpleregnemaskineIndBygDelegates\simpleregnemaskineIndBygDelegates.csproj", "{A14D0E77-C2FF-49D8-8815-F0ECED224071}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "simpleregnemaskineIndBygDelegates", "simpleregnemaskineIndBygDelegates\simpleregnemaskineIndBygDelegates.csproj", "{A14D0E77-C2FF-49D8-8815-F0ECED224071}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lamda", "lamda\lamda.csproj", "{08A3CE2E-2A54-4F42-BF27-90F1E29C6245}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lamda", "lamda\lamda.csproj", "{08A3CE2E-2A54-4F42-BF27-90F1E29C6245}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventsFileWatcher", "EventsFileWatcher\EventsFileWatcher.csproj", "{D4BB025D-B71D-4960-A63F-5C3DCE5F1D1A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventsFileWatcher", "EventsFileWatcher\EventsFileWatcher.csproj", "{D4BB025D-B71D-4960-A63F-5C3DCE5F1D1A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kreditmax", "kreditmax\kreditmax.csproj", "{3856F2D3-8080-437B-B870-C41EC6168A88}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "kreditmax", "kreditmax\kreditmax.csproj", "{3856F2D3-8080-437B-B870-C41EC6168A88}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "linq150_1", "linq150_1\linq150_1.csproj", "{8ABA9CCE-A464-47DF-955E-F8A499074C50}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "linq150_1", "linq150_1\linq150_1.csproj", "{8ABA9CCE-A464-47DF-955E-F8A499074C50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kommMedFiler", "kommMedFiler\kommMedFiler.csproj", "{21F5FF6D-B6DB-4338-8BF5-37DEA62F13E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "100000guids", "100000guids\100000guids.csproj", "{A5F444D0-6944-4D57-81EC-9CCA13F79B79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "http", "http\http.csproj", "{B561F19D-6B6D-4365-BF96-8A673CC99324}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "async", "async\async.csproj", "{786A0356-BA6C-441B-8D36-18E812D7E9CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "async155_2", "async155_2\async155_2.csproj", "{FB098336-9A31-4C8B-9FB6-5DA7B5A74334}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "async155_3", "async155_3\async155_3.csproj", "{8936E6E8-4C47-4AE2-9307-093C07B99F7E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -194,6 +206,30 @@ Global
 		{8ABA9CCE-A464-47DF-955E-F8A499074C50}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8ABA9CCE-A464-47DF-955E-F8A499074C50}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8ABA9CCE-A464-47DF-955E-F8A499074C50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21F5FF6D-B6DB-4338-8BF5-37DEA62F13E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21F5FF6D-B6DB-4338-8BF5-37DEA62F13E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21F5FF6D-B6DB-4338-8BF5-37DEA62F13E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21F5FF6D-B6DB-4338-8BF5-37DEA62F13E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5F444D0-6944-4D57-81EC-9CCA13F79B79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5F444D0-6944-4D57-81EC-9CCA13F79B79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5F444D0-6944-4D57-81EC-9CCA13F79B79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5F444D0-6944-4D57-81EC-9CCA13F79B79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B561F19D-6B6D-4365-BF96-8A673CC99324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B561F19D-6B6D-4365-BF96-8A673CC99324}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B561F19D-6B6D-4365-BF96-8A673CC99324}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B561F19D-6B6D-4365-BF96-8A673CC99324}.Release|Any CPU.Build.0 = Release|Any CPU
+		{786A0356-BA6C-441B-8D36-18E812D7E9CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{786A0356-BA6C-441B-8D36-18E812D7E9CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{786A0356-BA6C-441B-8D36-18E812D7E9CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{786A0356-BA6C-441B-8D36-18E812D7E9CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB098336-9A31-4C8B-9FB6-5DA7B5A74334}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB098336-9A31-4C8B-9FB6-5DA7B5A74334}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB098336-9A31-4C8B-9FB6-5DA7B5A74334}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB098336-9A31-4C8B-9FB6-5DA7B5A74334}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8936E6E8-4C47-4AE2-9307-093C07B99F7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8936E6E8-4C47-4AE2-9307-093C07B99F7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8936E6E8-4C47-4AE2-9307-093C07B99F7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8936E6E8-4C47-4AE2-9307-093C07B99F7E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
