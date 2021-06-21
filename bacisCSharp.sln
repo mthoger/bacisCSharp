@@ -68,17 +68,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "kreditmax", "kreditmax\kred
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "linq150_1", "linq150_1\linq150_1.csproj", "{8ABA9CCE-A464-47DF-955E-F8A499074C50}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kommMedFiler", "kommMedFiler\kommMedFiler.csproj", "{21F5FF6D-B6DB-4338-8BF5-37DEA62F13E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "kommMedFiler", "kommMedFiler\kommMedFiler.csproj", "{21F5FF6D-B6DB-4338-8BF5-37DEA62F13E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "100000guids", "100000guids\100000guids.csproj", "{A5F444D0-6944-4D57-81EC-9CCA13F79B79}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "100000guids", "100000guids\100000guids.csproj", "{A5F444D0-6944-4D57-81EC-9CCA13F79B79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "http", "http\http.csproj", "{B561F19D-6B6D-4365-BF96-8A673CC99324}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "http", "http\http.csproj", "{B561F19D-6B6D-4365-BF96-8A673CC99324}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "async", "async\async.csproj", "{786A0356-BA6C-441B-8D36-18E812D7E9CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "async", "async\async.csproj", "{786A0356-BA6C-441B-8D36-18E812D7E9CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "async155_2", "async155_2\async155_2.csproj", "{FB098336-9A31-4C8B-9FB6-5DA7B5A74334}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "async155_2", "async155_2\async155_2.csproj", "{FB098336-9A31-4C8B-9FB6-5DA7B5A74334}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "async155_3", "async155_3\async155_3.csproj", "{8936E6E8-4C47-4AE2-9307-093C07B99F7E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "async155_3", "async155_3\async155_3.csproj", "{8936E6E8-4C47-4AE2-9307-093C07B99F7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "adv-consoleapp", "adv-consoleapp\adv-consoleapp.csproj", "{3E64DB0E-B4E0-4CA3-9279-153FE5ED69A5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -230,6 +232,10 @@ Global
 		{8936E6E8-4C47-4AE2-9307-093C07B99F7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8936E6E8-4C47-4AE2-9307-093C07B99F7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8936E6E8-4C47-4AE2-9307-093C07B99F7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E64DB0E-B4E0-4CA3-9279-153FE5ED69A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E64DB0E-B4E0-4CA3-9279-153FE5ED69A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E64DB0E-B4E0-4CA3-9279-153FE5ED69A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E64DB0E-B4E0-4CA3-9279-153FE5ED69A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

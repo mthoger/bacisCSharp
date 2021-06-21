@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "adv-consoleapp": {
+      "commandName": "Project",
+      "commandLineArgs": "-f \"C:\\temp\\mt.txt.txt\" -d\"c:\\temp2\""
+    }
+  }
+}
