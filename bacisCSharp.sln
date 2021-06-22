@@ -80,9 +80,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "async155_2", "async155_2\as
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "async155_3", "async155_3\async155_3.csproj", "{8936E6E8-4C47-4AE2-9307-093C07B99F7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "adv-consoleapp", "adv-consoleapp\adv-consoleapp.csproj", "{3E64DB0E-B4E0-4CA3-9279-153FE5ED69A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "adv-consoleapp", "adv-consoleapp\adv-consoleapp.csproj", "{3E64DB0E-B4E0-4CA3-9279-153FE5ED69A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "delegates-adv", "delegates-adv\delegates-adv.csproj", "{30FDEB5B-7F64-417B-B228-6C8E2005907E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "delegates-adv", "delegates-adv\delegates-adv.csproj", "{30FDEB5B-7F64-417B-B228-6C8E2005907E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "predicate-adv", "predicate-adv\predicate-adv.csproj", "{81C6515F-B120-4492-8253-66CBCB4C4EFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "150-2", "150-2\150-2.csproj", "{FDC39BE6-1472-493F-98C8-5887B1A82591}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -242,6 +246,14 @@ Global
 		{30FDEB5B-7F64-417B-B228-6C8E2005907E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30FDEB5B-7F64-417B-B228-6C8E2005907E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30FDEB5B-7F64-417B-B228-6C8E2005907E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81C6515F-B120-4492-8253-66CBCB4C4EFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81C6515F-B120-4492-8253-66CBCB4C4EFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81C6515F-B120-4492-8253-66CBCB4C4EFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81C6515F-B120-4492-8253-66CBCB4C4EFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDC39BE6-1472-493F-98C8-5887B1A82591}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDC39BE6-1472-493F-98C8-5887B1A82591}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDC39BE6-1472-493F-98C8-5887B1A82591}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDC39BE6-1472-493F-98C8-5887B1A82591}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
